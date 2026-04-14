@@ -1,7 +1,6 @@
 # ARTH — Smart Financial Planning Platform
 ## Complete Setup & Feature Guide (v2.0)
 
----
 
 ## 🚀 Quick Start
 
